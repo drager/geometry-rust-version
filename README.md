@@ -1,6 +1,8 @@
 # Geometry Rust version plugin
 [Geometry](https://github.com/geometry-zsh/geometry) plugin to display the current folder's Rust version when either a `.rs` or `Cargo.toml` is present.
 
+![Screenshot](https://user-images.githubusercontent.com/1957563/46542221-2ed73f80-c8be-11e8-9c49-3bbc57b0ec73.png)
+
 ## Installation
 Installation depends on the way you manage your plugins for zsh.
 
